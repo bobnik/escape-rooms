@@ -81,3 +81,5 @@ footer-hover-col: "#0085A1"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-cayman
