@@ -21,7 +21,7 @@
 title: Online Escapes
 description: >- # this means to ignore newlines until "baseurl:"
   Online Escapes is a home for open source online escape rooms.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/escape-rooms" # the subpath of your site, e.g. /blog
 url: "https://bobnik.github.io/escape-rooms" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bobnik
 # email:
