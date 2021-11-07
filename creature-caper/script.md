@@ -7,7 +7,7 @@ permalink: /creature-caper/script/
 [< Back to Creature Caper Introduction](..)
 
 # Game Master Script
-Use this script as a companion to the [slide deck](https://docs.google.com/presentation/d/1UjjHCA8qc5cWrPXDoWVhv8keBv2_e_pIx4EPoLqAon0/edit?usp=sharing). As players' explore rooms, read the prompts as needed. Pay close attention to triggered responses to players' actions.
+Use this script as a companion to the [slides](../slides). As players explore rooms, read the prompts as needed. Pay close attention to triggered responses to players' actions.
 
 [Preamble](#preamble)  
 [Professor's Library, Newton, MA](#professors-library-newton-ma)
