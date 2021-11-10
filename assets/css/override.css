@@ -3,3 +3,10 @@ p { margin-top: 0; margin-bottom: 1rem; }
 h2 { margin-top: 2rem; }
 h1, h2, h3 { font-family: 'News Cycle' }
 .page-heading h1 { font-family: 'Cinzel'; }
+
+.scripted {
+  padding: 1.5rem 1.5rem 0 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+}
