@@ -13,6 +13,7 @@ Use this script as a companion to the [slides](../slides). As players explore ro
 
 Players will use a magical mechanical globe to travel to a series of locations around the world on the trail of the kidnapper.
 
+## Table of Contents
 [Preamble](#preamble)  
 [Newton, MA, USA](#newton-ma-usa)  
 [Western Ireland](#western-ireland)  
@@ -786,7 +787,7 @@ No clue. Didn’t ask. As far as I’m concerned, so long as the check clears, i
 
 The woman was right, this letter makes no sense at all. You scan the page, growing increasingly confused...maybe there’s a secret code in there somewhere...
 
-`Solution: Looking at the first word of each sentence reveals: 'Captive under crypts. "Pufftail" to enter. Beware enemies gaze.'`
+`You do not have to read this letter to them. Looking at the first word of each sentence reveals: 'Captive under crypts. "Pufftail" to enter. Beware enemies gaze.'`
 
 `"Pufftail" is the 8-letter combination to the lock on the Anatori Crypts.`
 

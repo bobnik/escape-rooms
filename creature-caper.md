@@ -30,7 +30,7 @@ If you would like to be the game master and host this escape room for your frien
 To prepare for a session:
 1. Decide on whether you would like to have 1 or 2 game masters. If you have 2 GMs, one can do the narration and the other can manage the slide deck. This worked well for us.
 2. Familiarize yourself with the slides, script, and puzzles so that you can maintain a confident narrative pace.
-3. Invite players to assemble a team and sign up to play. Below, you can find an invitation email template and a signup sheet (if you have to manage more than 1 group).
+3. Invite players to assemble a team.
 4. Set up a Zoom meeting and, shortly before the event, email players with a link to the meeting along with the [logic puzzle handout](../assets/creature-caper-handout.pdf).
 
 When starting your session:
@@ -48,3 +48,5 @@ Good luck!
 Visuals, puzzles, and transitions.
 * [Script](script)  
 Story, object and NPC interactions, and puzzle solutions.
+*  [Handout](../assets/creature-caper-handout.pdf)  
+Email this to players the day before their session.
