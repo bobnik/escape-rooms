@@ -1,13 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Online Escapes
 ---
-Welcome to Online Escapes!
+# Welcome to Online Escapes!
 
-This is a home for free online escape rooms that we've created that you can run for your friends. You'll only need the resources provided, and a video conferencing app like Zoom. These escape rooms were born during Covid, as an alternative our usual annual in-person Halloween parties. They were well-received and we decided to publish them online for anyone to use.
+Online Escapes are free online escape rooms that we've created that you can run for your friends. You'll only need the resources provided, and a video conferencing app like Zoom. These escape rooms were born during Covid, as an alternative our usual annual in-person Halloween parties. They were well-received and we decided to publish them online for anyone to use.
 
 We hope you enjoy them!
 

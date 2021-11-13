@@ -24,6 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/escape-rooms" # the subpath of your site, e.g. /blog
 url: "https://bobnik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bobnik
+remove-ads: true
+author: Hallow's Eve Productions
+
 # email:
 # twitter_username: jekyllrb
 
