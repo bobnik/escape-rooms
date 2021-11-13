@@ -10,3 +10,13 @@ h1, h2, h3 { font-family: 'News Cycle' }
   background-color: #f8f9fa;
   border: 1px solid #dee2e6;
 }
+
+.slide-link {
+  text-transform: uppercase;
+  color: #008AFF;
+}
+
+.highlight > pre {
+  border-left: 1px solid rgba(0,0,0,0.1) !important;
+  color: #c7254e;
+}
