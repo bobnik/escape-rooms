@@ -7,9 +7,9 @@ We hope you enjoy them!
 &mdash; Becca and Bob
 
 ## Escape Rooms
-This is the Github repository containing the source files for the Online Escape site. You are free to use and modify these files as per the license below.
+This is the Github repository containing the source files for Online Escapes. You are free to use and modify these files as per the license below.
 
-Go here for the [Online Escapes](https://bobnik.github.io/escape-rooms/) site.
+Visit [Online Escapes](https://bobnik.github.io/escape-rooms/) to see the live site.
 
 ## License
 <div class="mt-3">
