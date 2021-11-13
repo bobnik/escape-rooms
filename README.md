@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to Online Escapes!
 
-You can use the [editor on GitHub](https://github.com/bobnik/escape-rooms/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Online Escapes are free online escape rooms that we've created that you can run for your friends. You'll only need the resources provided, and a video conferencing app like Zoom. These escape rooms were born during Covid, as an alternative our usual annual in-person Halloween parties. They were well-received and we decided to publish them online for anyone to use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We hope you enjoy them!
 
-### Markdown
+&mdash; Becca and Bob
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Escape Rooms
+This is the Github repository containing the source files for the Online Escape site. You are free to use and modify these files as per the license below.
 
-```markdown
-Syntax highlighted code block
+Go here for the [Online Escapes](https://bobnik.github.io/escape-rooms/) site.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bobnik/escape-rooms/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+<div class="mt-3">
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+</div>
