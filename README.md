@@ -9,7 +9,7 @@ We hope you enjoy them!
 ## Escape Rooms
 This is the Github repository containing the source files for Online Escapes. You are free to use and modify these files as per the license below.
 
-Visit [Online Escapes](https://bobnik.github.io/escape-rooms/) to see the live site.
+Visit [Online Escapes](https://bobnik.github.io/online-escapes) to see the live site.
 
 ## License
 <div class="mt-3">
